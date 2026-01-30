@@ -1,0 +1,17 @@
+<section id="role">
+  <h2>Role na serveru</h2>
+  <div class="grid">
+    <div class="box">
+      <h3>🚓 Policie</h3>
+      <p>Udržuj pořádek ve městě, řeš dopravní nehody a zločin.</p>
+    </div>
+    <div class="box">
+      <h3>🚑 EMS</h3>
+      <p>Zachraňuj životy a reaguj na krizové situace.</p>
+    </div>
+    <div class="box">
+      <h3>🚗 Civilista</h3>
+      <p>Žij běžný život, pracuj, bav se a tvoř vlastní příběh.</p>
+    </div>
+  </div>
+</section>
