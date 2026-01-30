@@ -1,0 +1,7 @@
+<section id="stav">
+  <h2>Stav serveru</h2>
+  <div class="box" style="text-align:center">
+    <h3 style="color:#22c55e">🟢 Server ONLINE</h3>
+    <p>ER:LC – Plzeň RP</p>
+  </div>
+</section>
